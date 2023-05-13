@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="book" targetNamespace="http://tempuri.org/book.xsd" xmlns:mstns="http://tempuri.org/book.xsd" xmlns="http://tempuri.org/book.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConnectionString (Settings)" ParameterPrefix=":" PropertyReference="ApplicationSettings.Library.Properties.Settings.GlobalReference.Default.ConnectionString" Provider="Oracle.ManagedDataAccess.Client" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="VBOOKTableAdapter" GeneratorDataComponentClassName="VBOOKTableAdapter" Name="VBOOK" UserDataComponentName="VBOOKTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (Settings)" DbObjectName="&quot;LIBRARY&quot;.VBOOK" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        "LIBRARY".VBOOK.*
+FROM            "LIBRARY".VBOOK</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="BOOKID" DataSetColumn="BOOKID" />
+              <Mapping SourceColumn="IMAGE" DataSetColumn="IMAGE" />
+              <Mapping SourceColumn="BOOKNAME" DataSetColumn="BOOKNAME" />
+              <Mapping SourceColumn="BOOKTYPE" DataSetColumn="BOOKTYPE" />
+              <Mapping SourceColumn="CREATEYEAR" DataSetColumn="CREATEYEAR" />
+              <Mapping SourceColumn="AUTHORNAME" DataSetColumn="AUTHORNAME" />
+              <Mapping SourceColumn="CLOSET" DataSetColumn="CLOSET" />
+              <Mapping SourceColumn="FLOOR" DataSetColumn="FLOOR" />
+              <Mapping SourceColumn="CREATEBY" DataSetColumn="CREATEBY" />
+              <Mapping SourceColumn="CREATEDATE" DataSetColumn="CREATEDATE" />
+              <Mapping SourceColumn="UPDATEBY" DataSetColumn="UPDATEBY" />
+              <Mapping SourceColumn="UPDATEDATE" DataSetColumn="UPDATEDATE" />
+              <Mapping SourceColumn="PRICE" DataSetColumn="PRICE" />
+              <Mapping SourceColumn="QTY" DataSetColumn="QTY" />
+              <Mapping SourceColumn="ISDELETED" DataSetColumn="ISDELETED" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="book" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="book" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="book">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="VBOOK" msprop:Generator_RowClassName="VBOOKRow" msprop:Generator_RowEvHandlerName="VBOOKRowChangeEventHandler" msprop:Generator_RowDeletedName="VBOOKRowDeleted" msprop:Generator_RowDeletingName="VBOOKRowDeleting" msprop:Generator_RowEvArgName="VBOOKRowChangeEvent" msprop:Generator_TablePropName="VBOOK" msprop:Generator_RowChangedName="VBOOKRowChanged" msprop:Generator_UserTableName="VBOOK" msprop:Generator_RowChangingName="VBOOKRowChanging" msprop:Generator_TableClassName="VBOOKDataTable" msprop:Generator_TableVarName="tableVBOOK">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="BOOKID" msprop:Generator_UserColumnName="BOOKID" msprop:Generator_ColumnPropNameInTable="BOOKIDColumn" msprop:Generator_ColumnPropNameInRow="BOOKID" msprop:Generator_ColumnVarNameInTable="columnBOOKID" type="xs:decimal" />
+              <xs:element name="IMAGE" msprop:Generator_UserColumnName="IMAGE" msprop:Generator_ColumnPropNameInTable="IMAGEColumn" msprop:Generator_ColumnPropNameInRow="IMAGE" msprop:Generator_ColumnVarNameInTable="columnIMAGE" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="BOOKNAME" msprop:Generator_UserColumnName="BOOKNAME" msprop:Generator_ColumnPropNameInTable="BOOKNAMEColumn" msprop:Generator_ColumnPropNameInRow="BOOKNAME" msprop:Generator_ColumnVarNameInTable="columnBOOKNAME">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="BOOKTYPE" msprop:Generator_UserColumnName="BOOKTYPE" msprop:Generator_ColumnPropNameInTable="BOOKTYPEColumn" msprop:Generator_ColumnPropNameInRow="BOOKTYPE" msprop:Generator_ColumnVarNameInTable="columnBOOKTYPE">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CREATEYEAR" msprop:Generator_UserColumnName="CREATEYEAR" msprop:Generator_ColumnPropNameInTable="CREATEYEARColumn" msprop:Generator_ColumnPropNameInRow="CREATEYEAR" msprop:Generator_ColumnVarNameInTable="columnCREATEYEAR" type="xs:decimal" />
+              <xs:element name="AUTHORNAME" msprop:Generator_UserColumnName="AUTHORNAME" msprop:Generator_ColumnPropNameInTable="AUTHORNAMEColumn" msprop:Generator_ColumnPropNameInRow="AUTHORNAME" msprop:Generator_ColumnVarNameInTable="columnAUTHORNAME">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CLOSET" msprop:Generator_UserColumnName="CLOSET" msprop:Generator_ColumnPropNameInTable="CLOSETColumn" msprop:Generator_ColumnPropNameInRow="CLOSET" msprop:Generator_ColumnVarNameInTable="columnCLOSET">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="FLOOR" msprop:Generator_UserColumnName="FLOOR" msprop:Generator_ColumnPropNameInTable="FLOORColumn" msprop:Generator_ColumnPropNameInRow="FLOOR" msprop:Generator_ColumnVarNameInTable="columnFLOOR" type="xs:decimal" />
+              <xs:element name="CREATEBY" msprop:Generator_UserColumnName="CREATEBY" msprop:Generator_ColumnPropNameInTable="CREATEBYColumn" msprop:Generator_ColumnPropNameInRow="CREATEBY" msprop:Generator_ColumnVarNameInTable="columnCREATEBY">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CREATEDATE" msprop:Generator_UserColumnName="CREATEDATE" msprop:Generator_ColumnPropNameInTable="CREATEDATEColumn" msprop:Generator_ColumnPropNameInRow="CREATEDATE" msprop:Generator_ColumnVarNameInTable="columnCREATEDATE" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="UPDATEBY" msprop:Generator_UserColumnName="UPDATEBY" msprop:Generator_ColumnPropNameInTable="UPDATEBYColumn" msprop:Generator_ColumnPropNameInRow="UPDATEBY" msprop:Generator_ColumnVarNameInTable="columnUPDATEBY" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="UPDATEDATE" msprop:Generator_UserColumnName="UPDATEDATE" msprop:Generator_ColumnPropNameInTable="UPDATEDATEColumn" msprop:Generator_ColumnPropNameInRow="UPDATEDATE" msprop:Generator_ColumnVarNameInTable="columnUPDATEDATE" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="PRICE" msprop:Generator_UserColumnName="PRICE" msprop:Generator_ColumnPropNameInTable="PRICEColumn" msprop:Generator_ColumnPropNameInRow="PRICE" msprop:Generator_ColumnVarNameInTable="columnPRICE">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="QTY" msprop:Generator_UserColumnName="QTY" msprop:Generator_ColumnPropNameInTable="QTYColumn" msprop:Generator_ColumnPropNameInRow="QTY" msprop:Generator_ColumnVarNameInTable="columnQTY" type="xs:decimal" />
+              <xs:element name="ISDELETED" msprop:Generator_UserColumnName="ISDELETED" msprop:Generator_ColumnPropNameInTable="ISDELETEDColumn" msprop:Generator_ColumnPropNameInRow="ISDELETED" msprop:Generator_ColumnVarNameInTable="columnISDELETED" type="xs:short" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

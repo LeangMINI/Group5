@@ -1,0 +1,146 @@
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\Library.exe.config
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\Library.exe
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\Guna.UI2.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\System.Text.Json.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\System.Text.Encodings.Web.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\System.ValueTuple.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\System.Numerics.Vectors.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\System.Buffers.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\obj\Debug\Library.AddBooks.resources
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\obj\Debug\Library.AddStudent.resources
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\obj\Debug\Library.Author.resources
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\obj\Debug\Library.BookCloset.resources
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\obj\Debug\Library.Booktype.resources
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\obj\Debug\Library.CompleteBooks.resources
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\obj\Debug\Library.Dashboard.resources
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\obj\Debug\Library.Form1.resources
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\obj\Debug\Library.IssueBooks.resources
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\obj\Debug\Library.Properties.Resources.resources
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\obj\Debug\Library.ReturnBooks.resources
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\obj\Debug\Library.ViewBook.resources
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\obj\Debug\Library.ViewStudentInformation.resources
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\obj\Debug\Library.csproj.CopyComplete
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\obj\Debug\Library.exe
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\obj\Debug\Library.pdb
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\Library.pdb
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\obj\Debug\Library.Payment.resources
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\obj\Debug\Library.paymentdetail.resources
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\obj\Debug\Library.BorrowDetail.resources
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.Shared.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\Dapper.Contrib.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\Dapper.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\EntityFramework.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\EntityFramework.SqlServer.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\Oracle.DataAccess.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\Oracle.VsDevTools.EntityFramework.17.0.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\System.Memory.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\stdole.dll
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\Dapper.xml
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\Dapper.Contrib.xml
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\EntityFramework.xml
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\EntityFramework.SqlServer.xml
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\System.Buffers.xml
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\System.Memory.xml
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\System.Numerics.Vectors.xml
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\System.Text.Encodings.Web.xml
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\System.Text.Json.xml
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\bin\Debug\System.ValueTuple.xml
+D:\4.Year3Semester1\Client-Server Application Development\project\Library\Library Management System Project\Library\Library\obj\Debug\Library.Report.resources
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\Library.exe.config
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\Library.exe
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\Library.pdb
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.Shared.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\Dapper.Contrib.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\Dapper.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\EntityFramework.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\EntityFramework.SqlServer.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\Guna.UI.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\System.Buffers.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\System.Memory.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\System.Numerics.Vectors.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\System.Text.Encodings.Web.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\System.Text.Json.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\System.ValueTuple.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\stdole.dll
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\Dapper.xml
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\Dapper.Contrib.xml
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\EntityFramework.xml
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\EntityFramework.SqlServer.xml
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\System.Buffers.xml
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\System.Memory.xml
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\System.Numerics.Vectors.xml
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\System.Text.Encodings.Web.xml
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\System.Text.Json.xml
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\bin\Debug\System.ValueTuple.xml
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\obj\Debug\Library.AddBooks.resources
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\obj\Debug\Library.Author.resources
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\obj\Debug\Library.BookCloset.resources
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\obj\Debug\Library.Booktype.resources
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\obj\Debug\Library.BorrowDetail.resources
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\obj\Debug\Library.CompleteBooks.resources
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\obj\Debug\Library.Dashboard.resources
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\obj\Debug\Library.Form1.resources
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\obj\Debug\Library.IssueBooks.resources
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\obj\Debug\Library.Payment.resources
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\obj\Debug\Library.paymentdetail.resources
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\obj\Debug\Library.Properties.Resources.resources
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\obj\Debug\Library.Report.resources
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\obj\Debug\Library.ReturnBooks.resources
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\obj\Debug\Library.ViewBook.resources
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\obj\Debug\Library.csproj.CopyComplete
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\obj\Debug\Library.exe
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\obj\Debug\Library.pdb
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\obj\Debug\Library.AddUser.resources
+D:\Khunhy\BBU.Term2(Third Year)\Oracle\Library_Assignment\Library\Library Management System Project\Library\Library\obj\Debug\Library.Student.resources

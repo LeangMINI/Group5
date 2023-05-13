@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="vreturn" targetNamespace="http://tempuri.org/vreturn.xsd" xmlns:mstns="http://tempuri.org/vreturn.xsd" xmlns="http://tempuri.org/vreturn.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConnectionString (Settings)" ParameterPrefix=":" PropertyReference="ApplicationSettings.Library.Properties.Settings.GlobalReference.Default.ConnectionString" Provider="Oracle.ManagedDataAccess.Client" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="VRETURNTableAdapter" GeneratorDataComponentClassName="VRETURNTableAdapter" Name="VRETURN" UserDataComponentName="VRETURNTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (Settings)" DbObjectName="&quot;LIBRARY&quot;.VRETURN" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        USERNAME, RETURNID, BOOKNAME, PAY, RETURNDATE, QTY
+FROM            "LIBRARY".VRETURN</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="USERNAME" DataSetColumn="USERNAME" />
+              <Mapping SourceColumn="RETURNID" DataSetColumn="RETURNID" />
+              <Mapping SourceColumn="BOOKNAME" DataSetColumn="BOOKNAME" />
+              <Mapping SourceColumn="PAY" DataSetColumn="PAY" />
+              <Mapping SourceColumn="RETURNDATE" DataSetColumn="RETURNDATE" />
+              <Mapping SourceColumn="QTY" DataSetColumn="QTY" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="vreturn" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_UserDSName="vreturn" msprop:Generator_DataSetName="vreturn">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="VRETURN" msprop:Generator_RowEvHandlerName="VRETURNRowChangeEventHandler" msprop:Generator_RowDeletedName="VRETURNRowDeleted" msprop:Generator_RowDeletingName="VRETURNRowDeleting" msprop:Generator_RowEvArgName="VRETURNRowChangeEvent" msprop:Generator_TablePropName="VRETURN" msprop:Generator_RowChangedName="VRETURNRowChanged" msprop:Generator_RowChangingName="VRETURNRowChanging" msprop:Generator_TableClassName="VRETURNDataTable" msprop:Generator_RowClassName="VRETURNRow" msprop:Generator_TableVarName="tableVRETURN" msprop:Generator_UserTableName="VRETURN">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="USERNAME" msprop:Generator_ColumnPropNameInRow="USERNAME" msprop:Generator_ColumnPropNameInTable="USERNAMEColumn" msprop:Generator_ColumnVarNameInTable="columnUSERNAME" msprop:Generator_UserColumnName="USERNAME">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="RETURNID" msprop:Generator_ColumnPropNameInRow="RETURNID" msprop:Generator_ColumnPropNameInTable="RETURNIDColumn" msprop:Generator_ColumnVarNameInTable="columnRETURNID" msprop:Generator_UserColumnName="RETURNID" type="xs:decimal" />
+              <xs:element name="BOOKNAME" msprop:Generator_ColumnPropNameInRow="BOOKNAME" msprop:Generator_ColumnPropNameInTable="BOOKNAMEColumn" msprop:Generator_ColumnVarNameInTable="columnBOOKNAME" msprop:Generator_UserColumnName="BOOKNAME">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PAY" msprop:Generator_ColumnPropNameInRow="PAY" msprop:Generator_ColumnPropNameInTable="PAYColumn" msprop:Generator_ColumnVarNameInTable="columnPAY" msprop:Generator_UserColumnName="PAY">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="RETURNDATE" msprop:Generator_ColumnPropNameInRow="RETURNDATE" msprop:Generator_ColumnPropNameInTable="RETURNDATEColumn" msprop:Generator_ColumnVarNameInTable="columnRETURNDATE" msprop:Generator_UserColumnName="RETURNDATE" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="QTY" msprop:Generator_ColumnPropNameInRow="QTY" msprop:Generator_ColumnPropNameInTable="QTYColumn" msprop:Generator_ColumnVarNameInTable="columnQTY" msprop:Generator_UserColumnName="QTY" type="xs:decimal" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
